@@ -187,3 +187,6 @@ s["@SolarcoolHan"] = "LibCustomIcons/icons/misc8/SolarcoolHan.dds"
 a["@UnslaadVusWunduniik"] = {"LibCustomIcons/icons/misc8/UnslaadVusWunduniik_anim.dds", 6, 4, 50}
 a["@Fried-childhood"] = {"LibCustomIcons/icons/misc8/Fried-childhood_anim.dds", 6, 4, 8}
 s["@spyro76"] = "LibCustomIcons/icons/misc8/spyro76.dds"
+a["@BIGTU"] = {"LibCustomIcons/icons/misc8/BIGTU_anim.dds", 11, 1, 33}
+a["@Cookie_Axis"] = {"LibCustomIcons/icons/misc8/Cookie_Axis_anim.dds", 4, 2, 20}
+s["@FerryTAIR"] = "LibCustomIcons/icons/misc8/FerryTAIR.dds"
