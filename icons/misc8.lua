@@ -195,3 +195,5 @@ s["@FerryTAIR"] = "LibCustomIcons/icons/misc8/FerryTAIR.dds"
 s["@peachysaurusx"] = "LibCustomIcons/icons/misc8/peachysaurusx.dds"
 a["@peachysaurusx"] = {"LibCustomIcons/icons/misc8/peachysaurusx_anim.dds", 8, 1, 9}
 a["@Marquis_Shax"] = {"LibCustomIcons/icons/misc8/Marquis_Shax_anim.dds", 12, 4, 23}
+a["@LeinadZ"] = {"LibCustomIcons/icons/misc8/LeinadZ_anim.dds", 4, 3, 10}
+s["@Giubp"] = "LibCustomIcons/icons/misc8/Giubp.dds"
