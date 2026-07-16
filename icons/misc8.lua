@@ -197,3 +197,6 @@ a["@peachysaurusx"] = {"LibCustomIcons/icons/misc8/peachysaurusx_anim.dds", 8, 1
 a["@Marquis_Shax"] = {"LibCustomIcons/icons/misc8/Marquis_Shax_anim.dds", 12, 4, 23}
 a["@LeinadZ"] = {"LibCustomIcons/icons/misc8/LeinadZ_anim.dds", 4, 3, 10}
 s["@Giubp"] = "LibCustomIcons/icons/misc8/Giubp.dds"
+s["@Halvkyrie"] = "LibCustomIcons/icons/misc8/Halvkyrie.dds"
+s["@PrincessValerie"] = s["@Halvkyrie"]
+s["@WastelandValkyrie"] = s["@Halvkyrie"]
