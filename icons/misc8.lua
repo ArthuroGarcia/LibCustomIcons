@@ -201,3 +201,4 @@ s["@Halvkyrie"] = "LibCustomIcons/icons/misc8/Halvkyrie.dds"
 s["@PrincessValerie"] = s["@Halvkyrie"]
 s["@WastelandValkyrie"] = s["@Halvkyrie"]
 s["@Cappucci777"] = "LibCustomIcons/icons/misc8/Cappucci777_1.dds"
+a["@AwfulGameDesign"] = {"LibCustomIcons/icons/misc8/AwfulGameDesign_anim.dds", 19, 1, 9.5}
